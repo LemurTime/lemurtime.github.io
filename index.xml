@@ -5,16 +5,16 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Sardine Blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog about schools of thought</description>
+<title>Matthew Pagett</title>
+<link>https://www.sardine.life/</link>
+<atom:link href="https://www.sardine.life/index.xml" rel="self" type="application/rss+xml"/>
+<description>Thoughts on AI - Matthew Pagett</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Sat, 01 Nov 2025 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Writing Haiku with GPT-2 Without Finetuning</title>
   <dc:creator>Matthew Pagett</dc:creator>
-  <link>https://your-website-url.example.com/posts/haiku-20251029/</link>
+  <link>https://www.sardine.life/posts/haiku-20251029/</link>
   <description><![CDATA[ 
 
 
@@ -27,7 +27,7 @@
 <p>I wrote code which prompted GPT-2 with a haiku-themed seed and then pieced together output of the right syllable count. Each poem took about one minute to generate, appearing upon a small external monitor until the next one was finished - an ephemeral dance accompanied by the furious spinning of the fan. The results were mostly absurd, but occasionally interesting.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/haiku-20251029/Revisiting haiku generator_files/figure-html/5244627d-620f-4379-8d1b-5dd08b498921-1-5e1d9fb0-34c3-4e87-a03f-49537a3ab91a.JPG" class="img-fluid figure-img"></p>
+<p><img src="https://www.sardine.life/posts/haiku-20251029/Revisiting haiku generator_files/figure-html/5244627d-620f-4379-8d1b-5dd08b498921-1-5e1d9fb0-34c3-4e87-a03f-49537a3ab91a.JPG" class="img-fluid figure-img"></p>
 <figcaption>IMG_2688.JPG</figcaption>
 </figure>
 </div>
@@ -5658,13 +5658,13 @@ who was the first mind?</p>
   <category>code</category>
   <category>Jetson Nano</category>
   <category>PyTorch</category>
-  <guid>https://your-website-url.example.com/posts/haiku-20251029/</guid>
+  <guid>https://www.sardine.life/posts/haiku-20251029/</guid>
   <pubDate>Sat, 01 Nov 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://www.sardine.life/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -5679,13 +5679,13 @@ who was the first mind?</p>
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://www.sardine.life/posts/post-with-code/</guid>
   <pubDate>Mon, 20 Oct 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.sardine.life/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New Post</title>
-  <link>https://your-website-url.example.com/posts/new-post/</link>
+  <link>https://www.sardine.life/posts/new-post/</link>
   <description><![CDATA[ 
 
 
@@ -5749,7 +5749,7 @@ font-style: inherit;">;</span></span></code></pre></div></div>
 <div class="cell-output cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/new-post/new-post1_files/figure-html/cell-3-output-2.png" class="img-fluid figure-img" alt="A line plot extending up and to the right"></p>
+<p><img src="https://www.sardine.life/posts/new-post/new-post1_files/figure-html/cell-3-output-2.png" class="img-fluid figure-img" alt="A line plot extending up and to the right"></p>
 <figcaption>This is my lovely line plot</figcaption>
 </figure>
 </div>
@@ -5762,7 +5762,7 @@ font-style: inherit;">;</span></span></code></pre></div></div>
  ]]></description>
   <category>nonsense</category>
   <category>code</category>
-  <guid>https://your-website-url.example.com/posts/new-post/</guid>
+  <guid>https://www.sardine.life/posts/new-post/</guid>
   <pubDate>Mon, 20 Oct 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
