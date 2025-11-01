@@ -1,1 +1,1 @@
-Sitemap: https://www.sardine.life/sitemap.xml
+Sitemap: http://www.sardine.life/sitemap.xml
