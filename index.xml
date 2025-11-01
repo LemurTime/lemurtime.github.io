@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Matthew Pagett</title>
-<link>http://www.sardine.life/</link>
-<atom:link href="http://www.sardine.life/index.xml" rel="self" type="application/rss+xml"/>
+<link>http://sardine.life/</link>
+<atom:link href="http://sardine.life/index.xml" rel="self" type="application/rss+xml"/>
 <description>Thoughts on AI - Matthew Pagett</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Sat, 01 Nov 2025 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Writing Haiku with GPT-2 Without Finetuning</title>
   <dc:creator>Matthew Pagett</dc:creator>
-  <link>http://www.sardine.life/posts/haiku-20251029/</link>
+  <link>http://sardine.life/posts/haiku-20251029/</link>
   <description><![CDATA[ 
 
 
@@ -27,7 +27,7 @@
 <p>I wrote code which prompted GPT-2 with a haiku-themed seed and then pieced together output of the right syllable count. Each poem took about one minute to generate, appearing upon a small external monitor until the next one was finished - an ephemeral dance accompanied by the furious spinning of the fan. The results were mostly absurd, but occasionally interesting.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://www.sardine.life/posts/haiku-20251029/Revisiting haiku generator_files/figure-html/5244627d-620f-4379-8d1b-5dd08b498921-1-5e1d9fb0-34c3-4e87-a03f-49537a3ab91a.JPG" class="img-fluid figure-img"></p>
+<p><img src="http://sardine.life/posts/haiku-20251029/Revisiting haiku generator_files/figure-html/5244627d-620f-4379-8d1b-5dd08b498921-1-5e1d9fb0-34c3-4e87-a03f-49537a3ab91a.JPG" class="img-fluid figure-img"></p>
 <figcaption>IMG_2688.JPG</figcaption>
 </figure>
 </div>
@@ -5658,7 +5658,7 @@ who was the first mind?</p>
   <category>code</category>
   <category>Jetson Nano</category>
   <category>PyTorch</category>
-  <guid>http://www.sardine.life/posts/haiku-20251029/</guid>
+  <guid>http://sardine.life/posts/haiku-20251029/</guid>
   <pubDate>Sat, 01 Nov 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
