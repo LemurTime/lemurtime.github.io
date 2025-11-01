@@ -1,1 +1,28 @@
 /* css styles */
+
+.code-output {
+  background-color: #282c34;  /* Dark background */
+  color: #abb2bf;  /* Light text */
+  border-left: 4px solid #61afef;  /* Bright blue accent */
+  padding: 15px 20px;
+  border-radius: 6px;
+  margin: 20px 0;
+  font-family: 'Monaco', 'Menlo', monospace;
+  font-size: 0.9em;
+}
+
+.claude-output {
+  background-color: #faf6f1;
+  border-left: 5px solid #c89968;
+  padding: 15px 20px;
+  border-radius: 6px;
+  margin: 20px 0;
+}
+
+.claude-output strong:first-child {
+  color: #8b6534;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
